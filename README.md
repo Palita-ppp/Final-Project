@@ -58,6 +58,7 @@
 <p>4. PubSubClient: ไลบรารีสำหรับใช้กับ MQTT (Message Queuing Telemetry Transport) protocol, ทำให้ ESP8266 สามารถส่งและรับข้อมูลผ่านโปรโตคอล MQTT ได้</p>
 <h3>การทดสอบ</h3>
 <h3>สรุปผลการทดสอบ</h3>
+<img src=https://github.com/ffixxpp/Final-Project/blob/main/testcass.png>
 
 
 
